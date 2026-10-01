@@ -1,7 +1,7 @@
 {
   "name": "nodejs-demo-app",
   "version": "1.0.0",
-  "description": "Production-grade Node.js app with CI/CD",
+  "description": "Production-grade Node.js app with CI pipeline",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
