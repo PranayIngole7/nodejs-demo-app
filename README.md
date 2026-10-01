@@ -46,6 +46,7 @@ npm install
 npm start
 ```
 > Access the app in your browser at: http://localhost:3000
+> For Health check: http://localhost:3000/health
 
 3. Build and Run via Docker Locally
 ```bash
@@ -53,3 +54,5 @@ cd app
 docker build -t nodejs-demo-app .
 docker run -p 3000:3000 nodejs-demo-app
 ```
+> Access the app in your browser at: http://localhost:3000
+> For Health check: http://localhost:3000/health
